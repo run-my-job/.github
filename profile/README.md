@@ -134,9 +134,3 @@ We’re always happy to help!
 
 Run My Job is built with security first: KVM-based isolation, short-lived credentials, and strict per-namespace access controls.  
 If you discover a vulnerability, please email **security@puzl.cloud** and we’ll respond ASAP.
-
----
-
-## License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
