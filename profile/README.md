@@ -12,9 +12,7 @@
 - [Documentation](#documentation)
 - [Pricing](#pricing)
 - [Support](#support)
-- [Contributing](#contributing)
 - [Security](#security)
-- [License](#license)
 
 ---
 
