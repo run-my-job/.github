@@ -10,7 +10,6 @@
   - [GitHub Actions](#github-actions)
   - [GitLab CI](#gitlab-ci)
 - [Documentation](#documentation)
-- [Pricing](#pricing)
 - [Support](#support)
 - [Security](#security)
 
@@ -99,22 +98,6 @@ kubectl apply -f my-first-runner.yaml
 ## Documentation
 
 Comprehensive docs live at **https://docs.puzl.cloud/services/run-my-job/getting-started** — including advanced configuration, caching, persistent storage, Terraform modules and more.
-
----
-
-## Pricing
-
-Run My Job offers a **Free** plan, a flat-rate **Business** subscription, and bespoke **Enterprise** tiers.  
-Every plan uses the same transparent, load-based usage pricing:
-
-| Resource | Included* | Overages |
-|----------|-----------|----------|
-| CPU      | 400 vCPU-minutes | €0.000008 per vCPU-second |
-| Memory   | 800 GB-minutes  | €0.000004 per GB-second  |
-
-*Numbers shown are for the Free plan — Business & Enterprise include higher quotas and optional dedicated hardware.
-
-See the [pricing page](https://runmyjob.io/#Pricing) for up-to-date details.
 
 ---
 
