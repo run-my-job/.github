@@ -3,15 +3,6 @@
 > **Cloud runners for GitHub Actions & GitLab CI — up to 2× faster and 10× cheaper. Pay only for real usage, not idle time.**
 ---
 
-## Table of Contents
-- [Features](#features)
-- [How it Works](#how-it-works)
-- [Documentation](#documentation)
-- [Support](#support)
-- [Security](#security)
-
----
-
 ## Features
 
 - **Spike Instances** — KVM-backed MicroVMs that boot in seconds, providing near bare-metal speed plus strong isolation.
