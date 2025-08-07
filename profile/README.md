@@ -97,7 +97,7 @@ kubectl apply -f my-first-runner.yaml
 
 ## Documentation
 
-Comprehensive docs live at **https://docs.puzl.cloud/services/run-my-job/getting-started** — including advanced configuration, caching, persistent storage, Terraform modules and more.
+Comprehensive docs live at **https://docs.puzl.cloud/services/run-my-job/getting-started**
 
 ---
 
