@@ -130,12 +130,6 @@ We’re always happy to help!
 
 ---
 
-## Contributing
-
-We :heart: contributions! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report issues, propose features, and open pull requests.
-
----
-
 ## Security
 
 Run My Job is built with security first: KVM-based isolation, short-lived credentials, and strict per-namespace access controls.  
