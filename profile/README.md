@@ -114,7 +114,7 @@ Every plan uses the same transparent, load-based usage pricing:
 
 *Numbers shown are for the Free plan — Business & Enterprise include higher quotas and optional dedicated hardware.
 
-See the [pricing page](https://runmyjob.io/#pricing) for up-to-date details.
+See the [pricing page](https://runmyjob.io/#Pricing) for up-to-date details.
 
 ---
 
