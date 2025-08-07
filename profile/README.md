@@ -103,9 +103,7 @@ Comprehensive docs live at **https://docs.puzl.cloud/services/run-my-job/getting
 
 ## Support
 
-- **Email** — support@puzl.cloud  
-- **X / Twitter** — [@puzl_cloud](https://x.com/puzl_cloud)
-
+- **Email** — support@puzl.cloud
 We’re always happy to help!
 
 ---
