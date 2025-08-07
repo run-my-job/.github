@@ -124,7 +124,7 @@ See the [pricing page](https://runmyjob.io/#pricing) for up-to-date details.
 
 - **Dashboard chat** — click the 💬 icon in the bottom-right corner.  
 - **Email** — support@puzl.cloud  
-- **X / Twitter** — [@puzlcloud](https://x.com/puzlcloud)
+- **X / Twitter** — [@puzlcloud](https://x.com/puzl_cloud)
 
 We’re always happy to help!
 
