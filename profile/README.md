@@ -113,4 +113,4 @@ We’re always happy to help!
 ## Security
 
 Run My Job is built with security first: KVM-based isolation, short-lived credentials, and strict per-namespace access controls.  
-If you discover a vulnerability, please email **security@puzl.cloud** and we’ll respond ASAP.
+If you discover a vulnerability, please email **security@puzl.cloud**.
