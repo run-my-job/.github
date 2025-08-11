@@ -58,7 +58,7 @@ Full documentation, including advanced configuration, caching, storage options, 
 
 ## Support
 
-- **Email** — support@puzl.cloud  
+**Email** — support@puzl.cloud  
 
 ---
 
