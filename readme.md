@@ -45,7 +45,7 @@ Follow the quick setup guides in our documentation:
 ## Pricing
 
 Run My Job offers Free, Business, and Enterprise plans — all with transparent load-based usage pricing.  
-Check the latest details here: [https://runmyjob.io/#pricing](https://runmyjob.io/#pricing)
+Check the latest details here: [https://runmyjob.io/#pricing](https://runmyjob.io/#Pricing)
 
 ---
 
