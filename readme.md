@@ -16,12 +16,9 @@
 
 ## Features
 
-- **Spike Instances** — KVM-backed MicroVMs that boot in seconds, providing near bare-metal speed plus strong isolation.
-- **Load-based billing** — billed per vCPU-second & GB-second; idle CPU is free, so heavy jobs cost less overall.
-- **Seamless integration** — drop-in replacement for GitHub & GitLab runners; just change a single label.
-- **Generous resources** — automatically scales each job up to dozens of cores and gigabytes of RAM, then back down.
-- **Ephemeral filesystem** — every job mounts its own high-performance, throw-away filesystem; zero cleanup required.
-- **Dashboard & API** — manage everything in the web console or fully-declarative Kubernetes manifests.
+- **High-performance by default** — Get rocket-fast builds with generous CPU and memory limits — no tuning needed.
+- **Fair, load-based billing** — Every second, we track each job’s CPU and memory load. Only pay for load, idle CPU is free.
+- **Seamless integration** — Plug into your existing setup in minutes — no vendor lock-in, no headaches.
 
 ---
 
