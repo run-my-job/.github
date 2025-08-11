@@ -64,7 +64,3 @@ Full documentation, including advanced configuration, caching, storage options, 
 If you discover a vulnerability, please email security@puzl.cloud
 
 ---
-
-## License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
