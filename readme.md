@@ -64,7 +64,7 @@ Full documentation, including advanced configuration, caching, storage options, 
 
 ## Security
 
-If you discover a vulnerability, please email security@puzl.cloud.
+If you discover a vulnerability, please email security@puzl.cloud
 
 ---
 
